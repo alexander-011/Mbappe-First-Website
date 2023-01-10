@@ -1,0 +1,122 @@
+img {
+	max-width: 1920px;
+	width: 300%;
+	height: auto;
+        display: block;
+        margin:0px auto; 
+} 
+/* Container holding the image and the text */
+.container {
+  position: relative;
+}
+
+/* Bottom right text */
+.text-block {
+  position: absolute;
+  bottom: 80px;
+  right: 80px;
+  background-color: blur;
+  color: white;
+  padding-left: 80px;
+  padding-right: 80px; 
+  html, body, #slide-1, .bcg {
+    height: 100%; width: 100%
+} 
+  img {
+	max-width: 1920px;
+	width: 300%;
+	height: auto;
+        display: block;
+        margin:0px auto; 
+} 
+/* Container 2 holding the image and the text */
+.container {
+  position: relative;
+}
+
+/* Bottom right text */
+.text-block {
+  position: absolute;
+  bottom: 80px;
+  right: 80px;
+  background-color: white;
+  color: blue;
+  padding-left: 80px;
+  padding-right: 80px; 
+  html, body, #slide-2, .bcg {
+    height: 100%; width: 100%
+}
+
+
+img {
+	max-width: 1920px;
+	width: 300%;
+	height: auto;
+        display: block;
+        margin:0px auto; 
+  img {
+    max-width: 1920px;
+    width: 300%;
+    height: auto;
+        display: block;
+        margin:0px auto;
+}
+/* Container 3 holding the image and the text */
+.container {
+  position: relative;
+}
+
+/* Bottom right text */
+.text-block {
+  position: absolute;
+  bottom: 80px;
+  right: 80px;
+  background-color: white;
+  color: blue;
+  padding-left: 80px;
+  padding-right: 80px;
+  html, body, #slide-3, .bcg {
+    height: 100%; width: 100%
+}
+
+  
+img {
+    max-width: 1920px;
+    width: 300%;
+    height: auto;
+        display: block;
+        margin:0px auto;
+}
+/* Container 4 holding the image and the text */
+.container {
+  position: relative;
+}
+
+/* Bottom right text */
+.text-block {
+  position: absolute;
+  bottom: 80px;
+  right: 80px;
+  background-color: white;
+  color: blue;
+  padding-left: 80px;
+  padding-right: 80px;
+  html, body, #slide-4, .bcg {
+    height: 100%; width: 100%
+} 
+<div class="text-block"> A </div>
+
+<style>
+.a {
+  font-size: 40px;
+  color: black;
+}
+</style>
+<div class="text-block"> A </div>
+
+<style>
+.a {
+  font-size: 40px;
+  color: black;
+}
+</style>
